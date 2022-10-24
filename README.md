@@ -66,8 +66,7 @@ npm install -g binaryen
 First of all you need to clone the repository, run:
 
 ```bash
-git clone https://github.com/Mangoboxlabs/Mangoboxink.git
-cd Mangoboxink/contract
+git clone git@github.com:Mangoboxlabs/Mangobox-Protocol-milestone-1.git
 ```
 
 Then, You can enter any folder and enter the following command.
